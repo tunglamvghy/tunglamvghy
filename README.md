@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### About me :v:
 - Nickname: Lâm Tùng 
-- A Guy from: 1998
+- A Guy from: Vietnam
 - Sologan: Nothing is impossible !
 - Understand: English/Vietnamese/Chinese (a little bit) :book:
 
