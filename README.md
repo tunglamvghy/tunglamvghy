@@ -5,6 +5,9 @@
 - Sologan: Nothing is impossible !
 - Understand: English/Vietnamese/Chinese (a little bit) :book:
 
+[![Telegram](https://img.shields.io/badge/Chat_on-Telegram-blue.svg)](https://t.me/tunglamvghy)
+[![Messenger](https://img.shields.io/badge/Chat_on-Messenger-0078FF)](https://m.me/k38b.lamtung)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/tunglamvghy)](https://github.com/tunglamvghy) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/tunglamvghy)](https://github.com/tunglamvghy)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/tunglamvghy)](https://gitlab.com/tunglamvghy)  
