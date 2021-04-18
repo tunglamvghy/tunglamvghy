@@ -23,8 +23,8 @@
 | Asus Vivobook S530FN | [repo]() | coming soon | @tunglamvghy |
 | Asus ROG G712LW | [repo](https://github.com/tunglamvghy/AsusROG-G712LW-hackintosh) | working  | @tunglamvghy |
 | Asus Vivobook Pro N552VW | [repo](https://github.com/tunglamvghy/AsusN552VW-hackintosh) | working | @tunglamvghy |
-| Asus Vivobook X540LJ | [repo](https://github.com/tunglamvghy/Asus-X540LJ-Hackintosh) | working | @tunglamvghy |
+| Asus Vivobook X540LJ | [repo](https://github.com/tunglamvghy/Asus-X540LJ-Hackintosh) | discontinued | @tunglamvghy |
 | Acer Spin 5 | [repo](https://github.com/tunglamvghy/AcerSpin5-hackintosh) | working | @tunglamvghy |
-| MSI GE75 Raider 10SGS | [repo]() | coming soon | @tunglamvghy |
+| MSI GE75 Raider 10SGS | [repo](https://github.com/tunglamvghy/MSI-GE75-Raider-10SGS-hackintosh) | working | @tunglamvghy |
 
 **If you want me to create your own EFI with payment, contact me via Telegram.**
