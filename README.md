@@ -30,6 +30,8 @@
 | Acer Nitro AN515-52  | i7 8750H | [repo](https://github.com/tunglamvghy/Acer-Nitro-AN515-52-hackintosh) | working  | @tunglamvghy |
 | ***MSI laptop*** | | | | |
 | MSI GE75 Raider 10SGS | i9 10980HK | [repo](https://github.com/tunglamvghy/MSI-GE75-Raider-10SGS-hackintosh) | working | @tunglamvghy |
+| ***Lenovo laptop*** | | | | |
+| Lenovo Thinkpad L15 Gen 1 | i5 10210U | [repo](https://github.com/tunglamvghy/LenovoThinkpad-L15-hackintosh) | working |  @tunglamvghy |
 | **Desktop** | | | | |
 | Asus ROG Maximus XIII Apex | i9 11900 | [repo](https://github.com/tunglamvghy/Asus-ROG-Maximus-XIII-Apex-hackintosh) | working  | @tunglamvghy |
 
