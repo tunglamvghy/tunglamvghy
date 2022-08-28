@@ -18,6 +18,9 @@
  
 | Model Name  | Processor | Link | Status | Credits |
 | ----------------------------------- | ----------------- | --------------------------- | ----------------- | ---------------------------------------------- | 
+| **Desktop** | | | | |
+| Asus ROG Maximus XIII Apex | i9 11900 | [repo](https://github.com/tunglamvghy/Asus-ROG-Maximus-XIII-Apex-hackintosh) | working  | @tunglamvghy |
+| Asus ROG Maximus Z690 Hero | i9 12900 | [repo](https://github.com/tunglamvghy/Asus-ROG-Maximus-XIII-Apex-hackintosh) | working  | @tunglamvghy |
 | **Laptop** | | | | |
 | ***ASUS laptop*** | | | | |
 | Asus Vivobook S530UN | i5 8250U | [repo](https://github.com/tunglamvghy/AsusS530UN-hackintosh) | working | @tunglamvghy |
@@ -32,7 +35,8 @@
 | MSI GE75 Raider 10SGS | i9 10980HK | [repo](https://github.com/tunglamvghy/MSI-GE75-Raider-10SGS-hackintosh) | working | @tunglamvghy |
 | ***Lenovo laptop*** | | | | |
 | Lenovo Thinkpad L15 Gen 1 | i5 10210U | [repo](https://github.com/tunglamvghy/LenovoThinkpad-L15-hackintosh) | working |  @tunglamvghy |
-| **Desktop** | | | | |
-| Asus ROG Maximus XIII Apex | i9 11900 | [repo](https://github.com/tunglamvghy/Asus-ROG-Maximus-XIII-Apex-hackintosh) | working  | @tunglamvghy |
+| ***Samsung laptop*** | | | | |
+| Samsung Notebook NP55X0AA | i5 8250U | [repo](https://github.com/tunglamvghy/SamsungNotebookNP55X0AA-X02CN-hackintosh) | working |  @tunglamvghy |
+
 
 **If you want me to create your own EFI with payment, contact me via Telegram.**
