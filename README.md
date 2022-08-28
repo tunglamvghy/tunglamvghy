@@ -20,7 +20,7 @@
 | ----------------------------------- | ----------------- | --------------------------- | ----------------- | ---------------------------------------------- | 
 | **Desktop** | | | | |
 | Asus ROG Maximus XIII Apex | i9 11900 | [repo](https://github.com/tunglamvghy/Asus-ROG-Maximus-XIII-Apex-hackintosh) | working  | @tunglamvghy |
-| Asus ROG Maximus Z690 Hero | i9 12900 | [repo](https://github.com/tunglamvghy/AsusRogMaximusZ690Hero-hackintosh) | working  | @tunglamvghy |
+| Asus ROG Maximus Z690 Hero | i9 12900K | [repo](https://github.com/tunglamvghy/AsusRogMaximusZ690Hero-hackintosh) | working  | @tunglamvghy |
 | **Laptop** | | | | |
 | ***ASUS laptop*** | | | | |
 | Asus Vivobook S530UN | i5 8250U | [repo](https://github.com/tunglamvghy/AsusS530UN-hackintosh) | working | @tunglamvghy |
